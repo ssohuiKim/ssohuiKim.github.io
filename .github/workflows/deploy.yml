@@ -3,7 +3,7 @@ name: Publish Website
 on:
   push:
     branches:
-      - master  # Here source code branch is `master`, it could be other branch
+      - main   # 메인 브랜치에 push될때마다 업데이트
 
 jobs:
   deploy:
