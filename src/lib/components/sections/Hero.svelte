@@ -32,8 +32,8 @@
 	}
 
 	.hero-photo {
-		width: 260px;
-		height: 260px;
+		width: 275px;
+		height: 275px;
 		border-radius: 50%;
 		object-fit: cover;
 		flex-shrink: 0;
@@ -49,8 +49,8 @@
 		}
 
 		.hero-photo {
-			width: 180px;
-			height: 180px;
+			width: 185px;
+			height: 185px;
 		}
 
 		.contacts {
