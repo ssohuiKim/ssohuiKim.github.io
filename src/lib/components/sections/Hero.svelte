@@ -49,8 +49,8 @@
 		}
 
 		.hero-photo {
-			width: 185px;
-			height: 185px;
+			width: 190px;
+			height: 190px;
 		}
 
 		.contacts {

@@ -208,7 +208,7 @@ export const teaching: TeachingEntry[] = [
 	},
 	{
 		role: 'Workshop Assistant',
-		course: '20th Asian Institute in Statistical Genetics and Genomics (통계유전학 Workshop)',
+		course: '20th Asian Institute in Statistical Genetics and Genomics (KOGO Workshop)',
 		period: 'July 20–24, 2026'
 	},
 	{
