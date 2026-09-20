@@ -203,6 +203,16 @@ export type TeachingEntry = {
 export const teaching: TeachingEntry[] = [
 	{
 		role: 'Workshop Assistant',
+		course: 'KSBi-BIML 2026 Summer: Bioinformatics & Machine Learning (BIML) Workshop for Life Scientists',
+		period: 'Aug 2026'
+	},
+	{
+		role: 'Workshop Assistant',
+		course: '20th Asian Institute in Statistical Genetics and Genomics (통계유전학 Workshop)',
+		period: 'July 20–24, 2026'
+	},
+	{
+		role: 'Workshop Assistant',
 		course: 'The 11th Korean Society for Bioinformatics (KSBi) – BIML 2025 Bioinformatics & Machine Learning Workshop',
 		period: 'Feb 2025'
 	},
