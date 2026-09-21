@@ -7,7 +7,7 @@ export const profile = {
 	name: 'So-Hui Kim',
 	title: 'MS Student, Genomic Data Science',
 	subtitle: 'Computational Omics Lab, Pusan National University',
-	bio: 'Bioinformatics researcher working on single-cell and spatial omics, with research spanning organoid/organ-on-a-chip disease models, CRISPR off-target prediction, and AI-assisted clinical decision support.',
+	bio: 'Bioinformatics researcher working on single-cell and spatial transcriptomics, with research interests in AI-driven analysis of complex biological data and the development of AI-powered bioinformatics tools.',
 	contacts: [
 		{ label: 'Email', href: 'mailto:sohui511@pusan.ac.kr' },
 		{ label: 'LinkedIn', href: 'https://www.linkedin.com/in/so-hui-kim-137b663a2/' },
