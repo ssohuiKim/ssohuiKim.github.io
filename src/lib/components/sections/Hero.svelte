@@ -25,7 +25,7 @@
 		<h1>{profile.name}</h1>
 		<p class="title">{profile.title}</p>
 		<p class="subtitle">{profile.subtitle}</p>
-		<p class="bio">{profile.bio}</p>
+		<p class="bio">{@html profile.bio}</p>
 		<ul class="contacts">
 			{#each profile.contacts as { label, href } (label)}
 				<li>

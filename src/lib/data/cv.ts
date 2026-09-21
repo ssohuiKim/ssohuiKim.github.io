@@ -7,7 +7,7 @@ export const profile = {
 	name: 'So-Hui Kim',
 	title: 'MS Student, Genomic Data Science',
 	subtitle: 'Computational Omics Lab, Pusan National University',
-	bio: 'Bioinformatics researcher working on single-cell and spatial transcriptomics, with research interests in AI-driven analysis of complex biological data and the development of AI-powered bioinformatics tools.',
+	bio: '<strong>Bioinformatics researcher</strong> working on <strong>single-cell</strong> and <strong>spatial transcriptomics</strong>, with research interests in AI-driven analysis of complex biological data and the <strong>development of AI-powered bioinformatics tools</strong>.',
 	contacts: [
 		{ label: 'Email', href: 'mailto:sohui511@pusan.ac.kr' },
 		{ label: 'LinkedIn', href: 'https://www.linkedin.com/in/so-hui-kim-137b663a2/' },
