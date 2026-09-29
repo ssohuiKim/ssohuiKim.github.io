@@ -69,7 +69,7 @@
 		display: none;
 	}
 
-	.content {
+	.entry:not(:last-child) .content {
 		padding-bottom: 2.5rem;
 	}
 

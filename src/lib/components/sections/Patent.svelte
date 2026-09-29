@@ -17,7 +17,7 @@
 		padding-left: 1.25rem;
 	}
 
-	.list li {
+	.list li:not(:last-child) {
 		margin-bottom: 0.5rem;
 	}
 </style>

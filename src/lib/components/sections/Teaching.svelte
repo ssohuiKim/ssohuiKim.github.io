@@ -27,6 +27,9 @@
 		grid-template-columns: 9rem 1fr auto;
 		gap: 1rem;
 		align-items: baseline;
+	}
+
+	.row:not(:last-child) {
 		padding-bottom: 0.75rem;
 		border-bottom: 1px solid var(--color-border);
 	}
