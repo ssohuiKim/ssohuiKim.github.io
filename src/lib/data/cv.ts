@@ -115,18 +115,18 @@ export type PublicationEntry = {
 export const publications = {
 	firstAuthor: [
 		{
-			authors: 'B. Kim, S.-H. Kim, J. Kim, et al.',
+			authors: 'B. Kim, <strong>S.-H. Kim</strong>, J. Kim, et al.',
 			title: 'Lung Microphysiological System Validates Novel Cell Therapy for Acute Respiratory Distress Syndrome.',
 			venue: 'Adv. Biology 10, no. 1 (2026): e00225.',
 			link: 'https://doi.org/10.1002/adbi.202500225'
 		},
 		{
-			authors: 'S.-H. Kim, W.-J. Jung, et al.',
+			authors: '<strong>S.-H. Kim</strong>, W.-J. Jung, et al.',
 			title: 'DILI-Assist: An AI-Assisted Clinical Decision Support Tool for Drug-Induced Liver Injury Assessment.',
 			venue: 'Under Review: IEEE Journal of Biomedical and Health Informatics'
 		},
 		{
-			authors: 'S. Park, S.-H. Kim, et al.',
+			authors: 'S. Park, <strong>S.-H. Kim</strong>, et al.',
 			title: 'Recapitulating SARS-CoV-2 Infection in a Human Lung Organoid-on-a-Chip at the Air-Liquid Interface.',
 			venue: 'In Revision: Respiratory Research',
 			link: 'https://www.researchsquare.com/article/rs-10547160/v1'
@@ -134,7 +134,7 @@ export const publications = {
 	] satisfies PublicationEntry[],
 	coAuthor: [
 		{
-			authors: 'Jung WJ, Jo EJ, Kim YJ, Park M, Kim E, Jung YS, Park SR, Oh JS, Kim SH, Park J, Jung SY, Jeon N.',
+			authors: 'Jung WJ, Jo EJ, Kim YJ, Park M, Kim E, Jung YS, Park SR, Oh JS, <strong>Kim SH</strong>, Park J, Jung SY, Jeon N.',
 			title: 'Characteristics of Immune Checkpoint Inhibitor–Related Hepatotoxicity Based on the Baseline Liver Function.',
 			venue: 'Cancer Res Treat. 2025 July 18 [E-pub].',
 			link: 'https://doi.org/10.4143/crt.2025.040'

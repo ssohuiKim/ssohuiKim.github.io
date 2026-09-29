@@ -5,7 +5,7 @@
 
 {#snippet pubItem(pub: PublicationEntry)}
 	<li>
-		<span class="authors">{pub.authors}</span>
+		<span class="authors">{@html pub.authors}</span>
 		{#if pub.link}
 			<a class="pub-title" href={pub.link} target="_blank" rel="noreferrer">"{pub.title}"</a>
 		{:else}
@@ -80,7 +80,11 @@
 	}
 
 	.authors {
-		font-weight: 600;
+		font-weight: 400;
+	}
+
+	.authors :global(strong) {
+		font-weight: 700;
 	}
 
 	.pub-title {
