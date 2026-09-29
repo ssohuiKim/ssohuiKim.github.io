@@ -42,7 +42,7 @@
 
 <style>
 	.hero {
-		padding-top: 5rem;
+		padding-top: 3.5rem;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
