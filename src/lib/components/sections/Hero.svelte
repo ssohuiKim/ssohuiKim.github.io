@@ -103,6 +103,10 @@
 		max-width: 640px;
 	}
 
+	.bio :global(.highlight) {
+		color: var(--color-accent);
+	}
+
 	.contacts {
 		margin: 1.75rem 0 0;
 		padding: 0;

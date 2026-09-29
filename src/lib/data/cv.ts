@@ -7,7 +7,7 @@ export const profile = {
 	name: 'So-Hui Kim',
 	title: 'MS Student, Genomic Data Science',
 	subtitle: 'Computational Omics Lab, Pusan National University',
-	bio: '<strong>Bioinformatics researcher</strong> working on <strong>single-cell</strong> and <strong>spatial transcriptomics</strong>, with research interests in AI-driven analysis of complex biological data and the <strong>development of AI-powered bioinformatics tools</strong>.',
+	bio: '<span class="highlight">Bioinformatics researcher</span> working on <span class="highlight">single-cell</span> and <span class="highlight">spatial transcriptomics</span>, with research interests in AI-driven analysis of complex biological data and the <span class="highlight">development of AI-powered bioinformatics tools</span>.',
 	contacts: [
 		{ label: 'Email', href: 'mailto:sohui511@pusan.ac.kr' },
 		{ label: 'LinkedIn', href: 'https://www.linkedin.com/in/so-hui-kim-137b663a2/' },
@@ -128,7 +128,8 @@ export const publications = {
 		{
 			authors: 'S. Park, S.-H. Kim, et al.',
 			title: 'Recapitulating SARS-CoV-2 Infection in a Human Lung Organoid-on-a-Chip at the Air-Liquid Interface.',
-			venue: 'In Revision: Respiratory Research'
+			venue: 'In Revision: Respiratory Research',
+			link: 'https://www.researchsquare.com/article/rs-10547160/v1'
 		}
 	] satisfies PublicationEntry[],
 	coAuthor: [

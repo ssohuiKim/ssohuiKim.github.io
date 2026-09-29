@@ -89,7 +89,7 @@
 	}
 
 	.pub-title:hover {
-		color: var(--color-accent);
+		color: var(--color-link);
 		text-decoration: underline;
 	}
 
